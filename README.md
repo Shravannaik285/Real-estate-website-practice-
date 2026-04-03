@@ -3,9 +3,9 @@
                         
 
 
-🛠 Technologies
--React.js
-Tailwind CSS
+## 🛠 Technologies
+    -React.js
+    -Tailwind CSS
 JavaScript (ES6)
 HTML5
 CSS3
